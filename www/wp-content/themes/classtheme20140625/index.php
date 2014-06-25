@@ -1,4 +1,7 @@
 <?php
+/*
+ Template Name: Page Template
+*/
 GitWordPressLayout::$Viewbag['sTitle'] = "Rich's blog";
 GitWordPressLayout::layout("_layout.php");
 ?>
